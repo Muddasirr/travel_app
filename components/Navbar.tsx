@@ -7,8 +7,8 @@ const Navbar = () => {
     max-container padding-container relative z-30 py-5'>
         <Link href='/'>
           <a className='text-2xl font-bold'>
-            Travel</a>
-          </Link>
+            Trvel</a>
+        </Link>
 
     </nav>
   )
